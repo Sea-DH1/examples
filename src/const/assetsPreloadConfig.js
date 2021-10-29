@@ -1,4 +1,4 @@
-const cosUrl = process.env.NODE_ENV === 'production' ? 'https://sea-data-1258146953.cos.ap-shanghai.myqcloud.com' : '';
+const cosUrl = process.env.NODE_ENV === 'production' ? 'https://sea-data-1258146953.file.myqcloud.com' : '';
 
 const commonAssetList = [
 	// Home Section
